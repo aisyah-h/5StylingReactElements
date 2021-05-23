@@ -8,7 +8,7 @@ ReactDOM.render(
     <h1 className="heading" contentEditable="true" spellCheck="false">
       My Favourite Foods
     </h1>
-    {/*in line below, ?grayscale is lorem picsum's setting to make the image whose url we copied to turn grayscale
+    {/*in line below, ?grayscale is lorem picsum's setting to make the image whose url we copied turn grayscale
      */}
     <img src={+"?grayscale"}></img>
     <div>
